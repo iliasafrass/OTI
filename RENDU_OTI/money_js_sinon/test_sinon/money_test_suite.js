@@ -1,0 +1,1 @@
+QUnit.testSuites(["money_test.html","money_ops_test.html","calc_test.html","alert_test.html","Factory_test.html"]);

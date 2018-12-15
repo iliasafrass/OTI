@@ -1,0 +1,22 @@
+RENDU OTI
+
+
+
+a) rendu du travail concernant les tests JUnit ou JUnit + Sinon
+     - optionnellement, configurez un projet Sonar
+     - sonar-project.properties
+     - capture d’écran Sonar (incluant les divers métriques syntaxiques + couverture)
+
+b) rendu du travail concernant les tests QUnit
+     - src, test, test_sinon
+     - sonar-project.properties, karma.conf.js
+     - capture d’écran Sonar (incluant les divers métriques syntaxiques + couverture)
+
+c) rendu travail concernant Selenium
+
+d)  en relation avec TAC - Web Avancé
+     - mise en place de Sonar sur votre projet TAC - Web Avancé
+       - sonar-projet.properties + capture d’écran Sonar (incluant les divers métriques syntaxiques + couverture)
+     - mise en place de quelques tests (xUnit et Selenium IDE/WebDriver)
+
+e) une à deux pages au format txt résumant votre retour d’expérience concernant la mise en place de Sonar et de quelques tests sur votre projet PLATINE
